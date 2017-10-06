@@ -1,0 +1,27 @@
+.scenarios-container {
+	//margin-bottom: 10px;
+
+	.btn {
+		margin-bottom: 10px;
+	}
+
+	hr {
+		margin-top: 0px;
+		margin-bottom: 10px;
+		border-color: rgb(204, 204, 204);
+		border-width: 2px;
+		border-style: dashed;
+	}
+
+	.scenario-key {
+		.btn {
+			margin-bottom: 0px;
+		}
+
+		div {
+			margin-bottom: 10px;
+			white-space: normal;
+		}
+	}
+}
+

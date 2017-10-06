@@ -1,0 +1,31 @@
+.prosperity-checks-list {
+	.glyphicon {
+		padding: 5px 5px 6px 7px;
+		font-size: 20px;
+		margin-top: 3px;
+		color: $colour-doomstalker;
+	}
+
+	.milestone {
+		color: $colour-brute;
+	}
+}
+
+.prosperity-label-container {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.treasure-key {
+	div {
+		margin-bottom: 10px;
+		white-space: normal;
+	}
+}
+
+.treasure-container {
+	button {
+		margin-bottom: 10px;
+		white-space: normal;
+	}
+}

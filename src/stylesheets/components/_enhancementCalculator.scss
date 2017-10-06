@@ -1,0 +1,28 @@
+.enhancement-container {
+	hr {
+		margin-top: 10px;
+		margin-bottom: 0px;
+		border-color: rgb(204, 204, 204);
+		border-width: 2px;
+		border-style: dashed;
+	}
+
+	.enhancement-col {
+		margin-top: 10px;
+		padding-right: 0px;
+	}
+
+	.instruction-label {
+		margin-top: 10px;
+		font-weight: bold;
+	}
+
+	.cost-row {
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.instruction-bottom {
+		margin-bottom: 10px;
+	}
+}
